@@ -1,0 +1,1 @@
+My Python weather forecast app uses a dicts.json file to handle weather data for almost 50,000 cities globally. It allows users to add, remove, view single entries, or browse all forecasts for international cities, making it a versatile tool for tracking weather conditions worldwide.
